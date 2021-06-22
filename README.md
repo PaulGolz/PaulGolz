@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PaulGolz
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Computer Science at the TU Kaiserslautern in Germany
+- 📫 You can reach me via email @ paul.golz@web.de
